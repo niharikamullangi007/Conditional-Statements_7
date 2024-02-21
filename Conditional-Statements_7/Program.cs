@@ -5,6 +5,8 @@ Comments: This C# Console application code demonstrates the use of
 conditional statements after getting input from users
 */
 
+// New changes made
+
 using System;
 // Ask the user for input
 Console.WriteLine("Please enter a Sales Amount ...");
