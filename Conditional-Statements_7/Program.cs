@@ -17,7 +17,7 @@ Console.WriteLine("Please enter a Sales Amount ...");
     If the user provides bad input, the catch block
     will handle the error and a message will be displayed.
 */
-try
+try//comments
 {
     // This variable will gather the user input
     string input = Console.ReadLine();
